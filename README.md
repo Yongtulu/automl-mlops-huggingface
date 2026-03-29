@@ -1,4 +1,4 @@
-# Medical Symptom Classification — End-to-End MLOps Pipeline
+# Medical Symptom Classification — End-to-End AutoML & MLOps Pipeline
 
 [![AWS SageMaker](https://img.shields.io/badge/AWS-SageMaker-orange?logo=amazonaws)](https://aws.amazon.com/sagemaker/)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co)
@@ -8,7 +8,6 @@
 An end-to-end MLOps pipeline that classifies medical symptom descriptions into
 22 disease categories using AWS SageMaker and HuggingFace.
 
-> **AIG130 — Applied Intelligent Systems, Project 3**
 
 ---
 
