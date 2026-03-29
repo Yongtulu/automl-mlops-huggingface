@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.pyc
+
+# Model & data files (too large for GitHub)
+*.pkl
+*.tar.gz
+*.h5
+*.pt
+*.bin
+local_model/
+model_output/
+model.tar.gz
+
+# AWS credentials (NEVER commit these)
+.env
+.aws/
+credentials
+aws_credentials.txt
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
